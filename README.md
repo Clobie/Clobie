@@ -21,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![RPM](https://img.shields.io/badge/-RPM-EE0000?style=flat-square&logo=red-hat&logoColor=white)
 
 ## Configuration Management
 
