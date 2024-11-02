@@ -9,6 +9,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clobie&layout=compact&theme=radical)
 
+## Currently Studying
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
